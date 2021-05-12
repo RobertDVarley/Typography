@@ -1,8 +1,8 @@
 <h1>Typography</h1>
 
 <li><em>Typography</em> is the art of arranging text on a page.<br>
-<li>Text can appear bold or thin with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">font-style</code> property.
-+Text can appear in italics with the font-style property.
+<li>Text can appear bold or thin with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">font-style</code> property.<br>
++Text can appear in italics with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">font-style</code> property.<br>
 +The vertical spacing between lines of text can be modified with the line-height property.
 +Serif fonts have extra details on the ends of each letter. Sans-Serif fonts do not.
 +Fallback fonts are used when a certain font is not installed on a user’s computer.
