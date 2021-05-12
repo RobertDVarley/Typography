@@ -8,6 +8,6 @@
 <li><em>Fallback</em> fonts are used when a certain font is not installed on a user’s computer.<br>
 <li>The <code class="code__2rdF32qjRVp7mMVBHuPwDS">word-spacing</code> property changes how far apart individual words are.<br>
 <li>The <code class="code__2rdF32qjRVp7mMVBHuPwDS">letter-spacing</code> property changes how far apart individual letters are.<br>
-+The text-align property changes the horizontal alignment of text.
-+Google Fonts provides free fonts that can be used in an HTML file with the <link> tag or the @font-face property.
-+Local fonts can be added to a document with the @font-face property and the path to the font’s source.
+<li>The <code class="code__2rdF32qjRVp7mMVBHuPwDS">text-align</code> property changes the horizontal alignment of text.<br>
+<li>Google Fonts provides free fonts that can be used in an HTML file with the <link> tag or the @font-face property.<br>
+<li>Local fonts can be added to a document with the @font-face property and the path to the font’s source.
