@@ -1,6 +1,6 @@
 <h1>Typography</h1>
 
-+<em>Typography</em> is the art of arranging text on a page.
++<em>Typography</em> is the art of arranging text on a page.<br>
 +Text can appear bold or thin with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">font-style</code> property.
 +Text can appear in italics with the font-style property.
 +The vertical spacing between lines of text can be modified with the line-height property.
