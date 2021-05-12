@@ -4,7 +4,7 @@
 <li>Text can appear bold or thin with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">font-style</code> property.<br>
 <li>Text can appear in italics with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">font-style</code> property.<br>
 <li>The vertical spacing between lines of text can be modified with the <code class="code__2rdF32qjRVp7mMVBHuPwDS">line-height</code> property.<br>
-<li>Serif fonts have extra details on the ends of each letter. Sans-Serif fonts do not.
+<li><em>Serif</em> fonts have extra details on the ends of each letter. <em>Sans-Serif</em> fonts do not.
 +Fallback fonts are used when a certain font is not installed on a user’s computer.
 +The word-spacing property changes how far apart individual words are.
 +The letter-spacing property changes how far apart individual letters are.
